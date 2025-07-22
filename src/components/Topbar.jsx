@@ -83,7 +83,7 @@ const Topbar = () => {
                             </li>
                         </ul>
                     </div>
-                    <a class="text-sm px-4 py-2 leading-none rounded-full hover:text-blue-600" href="#">Talk to sales</a>
+                    <a className="text-sm px-4 py-2 leading-none rounded-full hover:text-blue-600" href="#">Talk to sales</a>
 
                 </div>
             </nav>
