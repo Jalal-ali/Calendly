@@ -1,1 +1,8 @@
 @import "tailwindcss";
+.video{
+    display: block !important;
+    width: 80% !important;
+    height: 17rem !important;
+    justify-self: center !important;
+    border-radius: 50px !important;
+}
